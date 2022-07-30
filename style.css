@@ -1,0 +1,38 @@
+@media (max-width: 576px) {
+    .gridimg {
+        width: 100%;
+    }
+
+    .comsec {
+        display: none;
+    }
+
+    .secmar {
+        padding: 0% !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .gridimg {
+        width: 100%;
+    }
+
+    .comsec {
+        display: none;
+    }
+
+    .secmar {
+        padding: 0% !important;
+    }
+}
+
+
+@media (max-width: 992px) {
+    .comsec {
+        display: none;
+    }
+
+    .secmar {
+        padding-left: 10%;
+    }
+}
